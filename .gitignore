@@ -1,0 +1,7 @@
+.idea
+.pytest_cache
+Tests/reports
+debug.log
+venv
+__pycache__
+__init__.py
