@@ -11,7 +11,7 @@ CLI_LAND_URL = '--land-url'
 
 @pytest.fixture()
 def synergypay():
-    """TODO: Add fixture teardoen, which delete order in 1001 ticket with api.
+    """TODO: Add fixture teardown, which delete order in 1001 ticket with api.
     (Go to Postman)"""
     app=App()
     yield
