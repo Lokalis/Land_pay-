@@ -5,3 +5,5 @@ debug.log
 venv
 __pycache__
 __init__.py
+.gitlab-ci.yml
+werf.yaml
