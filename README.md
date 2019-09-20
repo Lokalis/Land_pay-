@@ -8,7 +8,6 @@ pytest
 requests
 Selenium webdriver
 
-пока возможен тест только synergyglobal.ru
 
 Входные данные для теста : pytest Tests/test_land.py --land-url {url тестируемого ленда} --alluredir=Tests/reports
 
@@ -19,7 +18,6 @@ Selenium webdriver
 Тест кейсы, на основе которых происходит написание автоматизированных тестов находятся в папке Tests/test_case
 
 
-У проекта есть возможность встройки в Gitlab CI. Все настройки находятся в файле .gitlab-ci.yml и werf.yaml
 
 
 
